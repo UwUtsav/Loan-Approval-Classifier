@@ -1,2 +1,2 @@
 # Loan-Approval-Classifier
-A basic model trained with multiple classifier
+Basics on creating models with knn,decision tree,svm and logrithmic regression
